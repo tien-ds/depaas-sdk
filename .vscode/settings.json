@@ -1,0 +1,6 @@
+{
+    "go.inferGopath": false,
+    "java.project.sourcePaths": [
+        "java"
+    ]
+}
